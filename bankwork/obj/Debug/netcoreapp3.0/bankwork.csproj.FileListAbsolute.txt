@@ -1,0 +1,11 @@
+C:\Users\Teacher\RiderProjects\bankwork\bankwork\bin\Debug\netcoreapp3.0\bankwork.exe
+C:\Users\Teacher\RiderProjects\bankwork\bankwork\bin\Debug\netcoreapp3.0\bankwork.deps.json
+C:\Users\Teacher\RiderProjects\bankwork\bankwork\bin\Debug\netcoreapp3.0\bankwork.runtimeconfig.json
+C:\Users\Teacher\RiderProjects\bankwork\bankwork\bin\Debug\netcoreapp3.0\bankwork.runtimeconfig.dev.json
+C:\Users\Teacher\RiderProjects\bankwork\bankwork\bin\Debug\netcoreapp3.0\bankwork.dll
+C:\Users\Teacher\RiderProjects\bankwork\bankwork\bin\Debug\netcoreapp3.0\bankwork.pdb
+C:\Users\Teacher\RiderProjects\bankwork\bankwork\obj\Debug\netcoreapp3.0\bankwork.csprojAssemblyReference.cache
+C:\Users\Teacher\RiderProjects\bankwork\bankwork\obj\Debug\netcoreapp3.0\bankwork.AssemblyInfoInputs.cache
+C:\Users\Teacher\RiderProjects\bankwork\bankwork\obj\Debug\netcoreapp3.0\bankwork.AssemblyInfo.cs
+C:\Users\Teacher\RiderProjects\bankwork\bankwork\obj\Debug\netcoreapp3.0\bankwork.dll
+C:\Users\Teacher\RiderProjects\bankwork\bankwork\obj\Debug\netcoreapp3.0\bankwork.pdb
